@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello and welcome to my profile page. 👋
+I'm Wafa, a first-year Computer Science student majoring in Computer Network and Security at University Teknologi Malaysia (UTM).
+
+
 
 <!--
 **NoralyaaWafaa/NoralyaaWafaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
