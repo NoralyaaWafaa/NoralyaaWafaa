@@ -4,16 +4,16 @@ A passionate student that eager to acquire new knowledge and apply it in practic
 
 ## 🎓 Education 🎓
 ### Universiti Teknologi Malaysia (October 2025 - Present)
-   - Course : Bachelor Of Computer Science ( Computer Networks And Security ) With Honours  
+- Bachelor Of Computer Science ( Computer Networks And Security ) With Honours  
 
 ### Universiti Teknologi MARA (September 2024 - May 2025)  
-   - Course : Foundation in Science
+   - Foundation in Science
    - CGPA : 3.89
    - MUET : Band 4.0
 
 ### SMKA Tengku Ampuan Hajjah Afzan Pahang (January 2019 - March 2024)
 	
-- Course : Science Stream
+- Sijil Pelajaran Malaysia :- Science Stream
 - SPM : 10 As
      
 ## 📜 Position 📜 
