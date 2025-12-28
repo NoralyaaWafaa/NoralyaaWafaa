@@ -34,7 +34,7 @@ A passionate student that eager to acquire new knowledge and apply it in practic
 
 ## 🧩 Skills 🧩
 ### Technical and Programming
-- Proficient in Microsoft Word and Microsoft Excel
+- Proficient in Microsoft Word, Microsoft Excel, Canva
 - Programming language : C++ 
 - Tools :  Visual Studio Code
 ### Soft Skills
@@ -43,7 +43,47 @@ A passionate student that eager to acquire new knowledge and apply it in practic
 
 ## 📚 Courses 📚
 
-- 
+- SECI1013 Discrete Structure
+- SECR1013 Digital Logic
+- SECJ1013 Programming Technique 1
+- SECP1513 Technology & Information System
+- ULRS1032 Integrity & Anti-Corruption
+
+## ✨ Awards and Participation ✨
+
+### Universiti Teknologi Malaysia
+💡Institution Level
+  - Searching For IEP Buddies Program 2025
+  - Where Fronted Ends, Backend Begins Workshop 2025
+  - AmplifAI: The Deep Learning Bootcamp 2025
+  - UTMD InsightX 6 " System Development "
+    
+💡Sports & Training
+- Woodball Player (KTR) – UTM Games 2025
+- UTM UNBOCS Splash Run 2025
+- UTM Equine Run 6 2025
+
+### Universiti Teknologi MARA
+💡Academic Awards
+- 4.00 GPA UPU Semester 1 2024
+- 4.00 GPA UPU Semester 2 2025
+
+💡Institution Level
+- Volunteer - MySaveFood Program 2025
+- Contestant - Global Awareness Campaign: Her voice, Her Hope, Female Gental Mutilation 2025
+- BeautyPreneur Workshop 2025
+  
+💡Sports & Training
+- UiTM Dengkil Neon Run 2025
+- UiTM Dengkil Fun Merdeka Run 2024
+
+
+### SMKA Tengku Ampuan Hajjah Afzan Pahang
+
+
+## 🗂️ Projects 🗂️
+
+
 
 ## 📬 Contact
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:wafanawawii2006@gmail.com)
