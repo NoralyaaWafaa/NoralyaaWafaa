@@ -41,6 +41,10 @@ A passionate student that eager to acquire new knowledge and apply it in practic
 - Time Management :- Demonstrated discipline in balancing and maintaining an excellent achievement in academic while actively contribute in extracurricular activities
 - Leadership And Team Management :- Entrusted to lead and execute programs from the planning phase to successful outcome
 
+## 📚 Courses 📚
+
+- 
+
 ## 📬 Contact
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:wafanawawii2006@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/noralyaa-wafaa-87ab363a0)
