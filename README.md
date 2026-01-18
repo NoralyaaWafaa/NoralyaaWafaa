@@ -78,8 +78,6 @@ A passionate student that eager to acquire new knowledge and apply it in practic
 - UiTM Dengkil Fun Merdeka Run 2024
 
 
-### SMKA Tengku Ampuan Hajjah Afzan Pahang
-
 
 ## 🗂️ Projects 🗂️
 
