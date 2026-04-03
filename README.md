@@ -4,7 +4,8 @@ A passionate student that eager to acquire new knowledge and apply it in practic
 
 ## 🎓 Education 🎓
 ### Universiti Teknologi Malaysia (October 2025 - Present)
-- Bachelor Of Computer Science ( Computer Networks And Security ) With Honours  
+- Bachelor Of Computer Science ( Computer Networks And Security ) With Honours
+- CGPA : 3.86
 
 ### Universiti Teknologi MARA (September 2024 - May 2025)  
    - Foundation in Science
@@ -43,11 +44,12 @@ A passionate student that eager to acquire new knowledge and apply it in practic
 
 ## 📚 Courses 📚
 
-- SECI1013 Discrete Structure
-- SECR1013 Digital Logic
-- SECJ1013 Programming Technique 1
-- SECP1513 Technology & Information System
-- ULRS1032 Integrity & Anti-Corruption
+- SECD2613 System Analysis and Design
+- SECI1113 Computational Mathematics
+- SECI1143 Probability and Statical Data Analysis
+- SECJ1023 Programming Technique II
+- SECR1033 Computer Organization and Architecture
+- ULRS1182 Appreciation of Ethics and Civilizations
 
 ## ✨ Awards and Participation ✨
 
